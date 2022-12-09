@@ -3,7 +3,7 @@ def nameRank(names, marks, updates, n):
     # Array of students
     x = [[0 for j in range(3)] for i in range(n)]
     for i in range(n):
-         
+         #any
         # Store the name of the student
         x[i][0] = names[i]
          
